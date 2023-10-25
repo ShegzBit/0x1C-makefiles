@@ -1,2 +1,1 @@
-# 0x1C-makefiles
-For alx makefile projects
+# 0x1B.c
